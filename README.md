@@ -1,7 +1,7 @@
-# Pac-Man
+# Pac-Man 
 Simple Pac-Man FPGA game
 
-# How To Play
+# How To Play 
 You'll need a FPGA. This game was developed under Altera's DE0-CV Cyclone V
 
 Open `DE0-CV/AP9.qpf` on Quartus II or newer. Compile it. Run it. :)
